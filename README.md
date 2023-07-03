@@ -1,3 +1,8 @@
+Deployed via vercel: https://react-todo-app-eight-blond.vercel.app/
+![image](https://github.com/nikitaaggarwal9/React-Todo-App/assets/93367879/2c3c6af8-5217-4dff-974d-5f9eadef31c3)
+
+A basic todo app which fetches tasks from an api and displays it on the screen. Can perform crud operations and making dummy calls to api also. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
